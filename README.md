@@ -30,6 +30,10 @@ Give_Discount=Yes   Give_Discount=No
       (Append Row)
 ```
 
+### 📸 Workflow Preview
+
+![n8n Workflow Screenshot](./workflow_screenshot.jpg)
+
 ---
 
 ## ⚙️ Nodes Breakdown
