@@ -1,6 +1,9 @@
-
+# Workflow
 <img width="2940" height="1912" alt="Screenshot 2026-06-20 at 4 48 42 PM" src="https://github.com/user-attachments/assets/cbaf2e94-3919-440d-b5b1-25841df3b8c3" />
-
+# Form
+<img width="894" height="1194" alt="Screenshot 2026-06-20 at 4 53 40 PM" src="https://github.com/user-attachments/assets/fee85318-218e-4336-baa2-159ce8fd5303" />
+# Output 
+<img width="2238" height="692" alt="Screenshot 2026-06-20 at 5 08 29 PM" src="https://github.com/user-attachments/assets/c49d528b-223c-4587-8c42-7a90643d6412" />
 
 
 
