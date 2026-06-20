@@ -1,3 +1,9 @@
+
+<img width="2940" height="1912" alt="Screenshot 2026-06-20 at 4 48 42 PM" src="https://github.com/user-attachments/assets/cbaf2e94-3919-440d-b5b1-25841df3b8c3" />
+
+
+
+
 # 🎯 Customer Feedback Automation Workflow
 
 > **Automatically collect, classify, and store customer feedback — and reward your happiest customers with discounts.**
